@@ -8,7 +8,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeom-JinHo&layout=compact&hide_border=true)](https://github.com/Yeom-JinHo)
   
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgh97)](https://solved.ac/wlsgh97)
 
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Yeom-JinHo)
