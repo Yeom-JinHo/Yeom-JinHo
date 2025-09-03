@@ -9,4 +9,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeom-JinHo&layout=compact&hide_border=true)](https://github.com/Yeom-JinHo)
   
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Yeom-JinHo&combine_all_yearly_contributions=tru)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Yeom-JinHo&combine_all_yearly_contributions=true&hide=B)
