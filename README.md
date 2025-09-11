@@ -3,8 +3,8 @@
 # 👋 Hi, I'm Jinho Yeom
 
 **Frontend Developer** focused on **Interactive UI** & **Performance**
-- I’m very interested in visual presentation and currently studying interactive UI.
-- As my hobby is DJing, I also have a strong interest in music.
+- I’m passionate about visual presentation and currently focusing on interactive UI.
+- With DJing as my hobby, I also have a deep interest in music.
 
 ---
 
@@ -34,4 +34,4 @@
 ---
 
 ### ⭐️ Contribution
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Yeom-JinHo&combine_all_yearly_contributions=true&hide=B)
+![Jinho's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Yeom-JinHo&combine_all_yearly_contributions=true&hide=B)
