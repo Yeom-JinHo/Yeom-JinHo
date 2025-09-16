@@ -27,7 +27,7 @@
 
 ### 📚 Projects
 
-- [v-f-labs](https://v-f-labs-website-web.vercel.app/)  v-f-labs
+- [v-f-labs](https://v-f-labs-website-web.vercel.app?utm_source=github&utm_content=readme)  v-f-labs
 
 ---
 
