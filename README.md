@@ -30,6 +30,21 @@
 - [v-f-labs](https://v-f-labs-website-web.vercel.app?utm_source=github&utm_content=readme)  v-f-labs
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⭐️ Contribution
 ![Jinho's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Yeom-JinHo&combine_all_yearly_contributions=true&hide=B)
+
+#### <a href="https://github.com/saadeghi/daisyui"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/saadeghi/daisyui?style=social&label=daisyui" style="height:25px;"></a>
+- [fix(mockup-phone): make layout responsive with aspect-ratio #4108](https://github.com/saadeghi/daisyui/pull/4108)
+
+#### <a href="https://github.com/magicuidesign/magicui"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/magicuidesign/magicui?style=social&label=magicui" style="height:25px;"></a>
+- [Chore: Fix build:docs&build:registry script loop & add engines field for consistency #806](https://github.com/magicuidesign/magicui/pull/806)
+- [fix(safari): resolve iOS device video masking issue with DOM overlay (breaking change) #782](https://github.com/magicuidesign/magicui/pull/782)
+- [fix(iphone-15-pro): resolve iOS device video masking issue with DOM overlay (breaking change) #780](https://github.com/magicuidesign/magicui/pull/780)
+
+#### <a href="https://github.com/style-dictionary/style-dictionary"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/style-dictionary/style-dictionary?style=social&label=style-dictionary" style="height:25px;"></a>
+- [fix(example) : format-helpers import path #1309](https://github.com/style-dictionary/style-dictionary/pull/1309)
+
+
+
