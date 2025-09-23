@@ -45,5 +45,11 @@
 #### <a href="https://github.com/style-dictionary/style-dictionary"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/style-dictionary/style-dictionary?style=social&label=style-dictionary" style="height:25px;"></a>
 - [fix(example) : format-helpers import path #1309](https://github.com/style-dictionary/style-dictionary/pull/1309)
 
+#### <a href="https://github.com/ui-layouts/uilayouts"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ui-layouts/uilayouts?style=social&label=ui-layouts" style="height:25px;"></a>
+- [refactor: migrate docs config from JSON to TypeScript with type safety #56](https://github.com/ui-layouts/uilayouts/pull/56)
+- [refactor: migrate from docsJson.dataArray to AllComponents and simplify component code #58](https://github.com/ui-layouts/uilayouts/pull/58)
+
+#### <a href="https://github.com/karthikmudunuri/eldoraui"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/karthikmudunuri/eldoraui?style=social&label=eldoraui" style="height:25px;"></a>
+- [fix: misaligned layout in PricingSection by adjusting description height (minor issue) #39](https://github.com/karthikmudunuri/eldoraui/pull/39)
 
 
