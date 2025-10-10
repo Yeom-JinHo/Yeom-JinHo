@@ -2,7 +2,7 @@
 
 **Frontend Developer** focused on **Interactive UI** & **Performance**
 - I’m passionate about visual presentation and currently focusing on interactive UI.
-- With DJing as my hobby, I also have a deep interest in music.
+- With DJing as my hobby, I also have a deep interest in music. [Listen here](https://soundcloud.com/ye0m2)
 
 ---
 
