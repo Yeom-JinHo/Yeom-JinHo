@@ -49,6 +49,9 @@
 - [refactor: migrate docs config from JSON to TypeScript with type safety #56](https://github.com/ui-layouts/uilayouts/pull/56)
 - [refactor: migrate from docsJson.dataArray to AllComponents and simplify component code #58](https://github.com/ui-layouts/uilayouts/pull/58)
 - [refactor:Docs Structure and Navigation System #61](https://github.com/ui-layouts/uilayouts/pull/61)
+- [refactor: reorganize component categories and simplify navigation groups #65](https://github.com/ui-layouts/uilayouts/pull/65)
+- [fix: remove duplicate components and fix malformed URLs in labs section #66](https://github.com/ui-layouts/uilayouts/pull/66)
+- [fix: add missing sparkles components and filter invalid recent pages #67](https://github.com/ui-layouts/uilayouts/pull/67)
 
 #### <a href="https://github.com/karthikmudunuri/eldoraui"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/karthikmudunuri/eldoraui?style=social&label=eldoraui" style="height:25px;"></a>
 - [fix: misaligned layout in PricingSection by adjusting description height (minor issue) #39](https://github.com/karthikmudunuri/eldoraui/pull/39)
