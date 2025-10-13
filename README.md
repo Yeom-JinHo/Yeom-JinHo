@@ -52,6 +52,9 @@
 - [refactor: reorganize component categories and simplify navigation groups #65](https://github.com/ui-layouts/uilayouts/pull/65)
 - [fix: remove duplicate components and fix malformed URLs in labs section #66](https://github.com/ui-layouts/uilayouts/pull/66)
 - [fix: add missing sparkles components and filter invalid recent pages #67](https://github.com/ui-layouts/uilayouts/pull/67)
+- [fix: revalidate confirmPassword field on password change #69](https://github.com/ui-layouts/uilayouts/pull/69)
+- [fix: resolve media modal component name inconsistency #71](https://github.com/ui-layouts/uilayouts/pull/71)
+
 
 #### <a href="https://github.com/karthikmudunuri/eldoraui"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/karthikmudunuri/eldoraui?style=social&label=eldoraui" style="height:25px;"></a>
 - [fix: misaligned layout in PricingSection by adjusting description height (minor issue) #39](https://github.com/karthikmudunuri/eldoraui/pull/39)
