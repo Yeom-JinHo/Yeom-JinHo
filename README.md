@@ -54,6 +54,7 @@
 - [fix: add missing sparkles components and filter invalid recent pages #67](https://github.com/ui-layouts/uilayouts/pull/67)
 - [fix: revalidate confirmPassword field on password change #69](https://github.com/ui-layouts/uilayouts/pull/69)
 - [fix: resolve media modal component name inconsistency #71](https://github.com/ui-layouts/uilayouts/pull/71)
+- [chore: upgrade Tailwind CSS from v3 to v4 #73](https://github.com/ui-layouts/uilayouts/pull/73)
 
 
 #### <a href="https://github.com/karthikmudunuri/eldoraui"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/karthikmudunuri/eldoraui?style=social&label=eldoraui" style="height:25px;"></a>
