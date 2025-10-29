@@ -54,7 +54,15 @@
 - [fix: add missing sparkles components and filter invalid recent pages #67](https://github.com/ui-layouts/uilayouts/pull/67)
 - [fix: revalidate confirmPassword field on password change #69](https://github.com/ui-layouts/uilayouts/pull/69)
 - [fix: resolve media modal component name inconsistency #71](https://github.com/ui-layouts/uilayouts/pull/71)
-- [chore: upgrade Tailwind CSS from v3 to v4 #73](https://github.com/ui-layouts/uilayouts/pull/73)
+- [refactor: implement global color token system for centralized theming #75](https://github.com/ui-layouts/uilayouts/pull/75)
+- [fix: resolve hydration mismatch in ThemeSwitch component #76](https://github.com/ui-layouts/uilayouts/pull/76)
+- [refactor: implement group-based pagination in DocsNavigation #77](https://github.com/ui-layouts/uilayouts/pull/77)
+- [fix: prevent drag icon scale from persisting during reordering #79](https://github.com/ui-layouts/uilayouts/pull/79)
+- [fix: improve reorder icon scale reset and add aria/touch optimizations #81](https://github.com/ui-layouts/uilayouts/pull/81)
+- [fix: restore marquee animation after Tailwind v4 migration #82](https://github.com/ui-layouts/uilayouts/pull/82)
+- [fix: restore Marquee animation and Tailwind v4 compatibility #83](https://github.com/ui-layouts/uilayouts/pull/83)
+- [fix: move @property declaration to top-level for gradient-border comp… #84](https://github.com/ui-layouts/uilayouts/pull/84)
+
 
 
 #### <a href="https://github.com/karthikmudunuri/eldoraui"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/karthikmudunuri/eldoraui?style=social&label=eldoraui" style="height:25px;"></a>
