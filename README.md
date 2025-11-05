@@ -37,6 +37,9 @@
 #### <a href="https://github.com/saadeghi/daisyui"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/saadeghi/daisyui?style=social&label=daisyui" style="height:25px;"></a>
 - [fix(mockup-phone): make layout responsive with aspect-ratio #4108](https://github.com/saadeghi/daisyui/pull/4108)
 
+#### <a href="https://github.com/vercel/turborepo"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/vercel/turborepo?style=social&label=turborepo" style="height:25px;"></a>
+- [examples: Remove redundant border declaration #11042](https://github.com/vercel/turborepo/pull/11042)
+
 #### <a href="https://github.com/magicuidesign/magicui"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/magicuidesign/magicui?style=social&label=magicui" style="height:25px;"></a>
 - [Chore: Fix build:docs&build:registry script loop & add engines field for consistency #806](https://github.com/magicuidesign/magicui/pull/806)
 - [fix(safari): resolve iOS device video masking issue with DOM overlay (breaking change) #782](https://github.com/magicuidesign/magicui/pull/782)
