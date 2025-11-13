@@ -45,6 +45,11 @@
 - [fix(safari): resolve iOS device video masking issue with DOM overlay (breaking change) #782](https://github.com/magicuidesign/magicui/pull/782)
 - [fix(iphone-15-pro): resolve iOS device video masking issue with DOM overlay (breaking change) #780](https://github.com/magicuidesign/magicui/pull/780)
 
+#### <a href="https://github.com/toss/es-toolkit"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/toss/es-toolkit?style=social&label=es-toolkit" style="height:25px;"></a>
+- [fix(isFinite): implement type predicate to narrow type to number #1511](https://github.com/toss/es-toolkit/pull/1511)
+- [fix(isSafeInteger): implement type predicate to narrow type to number #1510](https://github.com/toss/es-toolkit/pull/1510)
+
+
 #### <a href="https://github.com/style-dictionary/style-dictionary"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/style-dictionary/style-dictionary?style=social&label=style-dictionary" style="height:25px;"></a>
 - [fix(example) : format-helpers import path #1309](https://github.com/style-dictionary/style-dictionary/pull/1309)
 
