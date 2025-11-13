@@ -37,6 +37,8 @@ I actively contribute to the tools I use in production — especially UI librari
 
 I enjoy turning real-world UI/UX issues (especially around responsiveness, Safari/iOS quirks, and DX) into reusable fixes in the open-source ecosystem.
 
+![Jinho's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Yeom-JinHo&combine_all_yearly_contributions=true&hide=B)
+
 #### UI Libraries & Design Systems
 
 <a href="https://github.com/saadeghi/daisyui">
