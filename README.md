@@ -103,7 +103,8 @@ I enjoy turning real-world UI/UX issues (especially around responsiveness, Safar
 </a>
 
 - [fix(isFinite): implement type predicate to narrow type to number #1511](https://github.com/toss/es-toolkit/pull/1511)  
-- [fix(isSafeInteger): implement type predicate to narrow type to number #1510](https://github.com/toss/es-toolkit/pull/1510)  
+- [fix(isSafeInteger): implement type predicate to narrow type to number #1510](https://github.com/toss/es-toolkit/pull/1510)
+- [fix(toCamelCaseKeys): improve toCamelCaseKeys type inference for uppercase keys #1538](https://github.com/toss/es-toolkit/pull/1538)
   → Improved type safety by turning utility functions into proper type guards, enabling better inference in TypeScript codebases.
 
 <a href="https://github.com/style-dictionary/style-dictionary">
