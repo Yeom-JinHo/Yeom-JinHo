@@ -58,6 +58,11 @@ I enjoy turning real-world UI/UX issues (especially around responsiveness, Safar
 - [Chore: Fix build:docs&build:registry script loop & add engines field for consistency #806](https://github.com/magicuidesign/magicui/pull/806)  
   → Stabilized docs/registry build scripts and aligned Node.js engine constraints.
 
+<a href="https://github.com/magicuidesign/mcp">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/magicuidesign/mcp?style=social&label=magicui/mcp" style="height:25px;">
+</a>
+- [docs: use CLI-safe MCP alias in README example #6](https://github.com/magicuidesign/mcp/pull/6)  
+
 <a href="https://github.com/ui-layouts/uilayouts">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ui-layouts/uilayouts?style=social&label=ui-layouts" style="height:25px;">
 </a>
