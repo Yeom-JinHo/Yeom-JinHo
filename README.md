@@ -57,6 +57,8 @@ I enjoy turning real-world UI/UX issues (especially around responsiveness, Safar
   → Refactored video rendering to a DOM overlay to fix Safari/iOS masking issues.
 - [Chore: Fix build:docs&build:registry script loop & add engines field for consistency #806](https://github.com/magicuidesign/magicui/pull/806)  
   → Stabilized docs/registry build scripts and aligned Node.js engine constraints.
+- [fix: AnimatedGridPattern hydration + effect loop + invalid DOM prop #858](https://github.com/magicuidesign/magicui/pull/858)  
+  → Fixed hydration mismatch + React warning, and prevented an effect-induced render loop.
 
 <a href="https://github.com/magicuidesign/mcp">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/magicuidesign/mcp?style=social&label=magicui/mcp" style="height:25px;">
