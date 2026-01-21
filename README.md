@@ -121,6 +121,8 @@ I enjoy turning real-world UI/UX issues (especially around responsiveness, Safar
 
 - [fix(example): format-helpers import path #1309](https://github.com/style-dictionary/style-dictionary/pull/1309)  
   → Fixed example import paths to prevent confusion for new users.
+- [feat(utils): add sort option to formattedVariables #1611](https://github.com/style-dictionary/style-dictionary/pull/1611)  
+  → Added options.sort to formattedVariables for deterministic ordering
 
 
 <a href="https://github.com/release-it/release-it">
