@@ -121,3 +121,10 @@ I enjoy turning real-world UI/UX issues (especially around responsiveness, Safar
 
 - [fix(example): format-helpers import path #1309](https://github.com/style-dictionary/style-dictionary/pull/1309)  
   → Fixed example import paths to prevent confusion for new users.
+
+
+<a href="https://github.com/release-it/release-it">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/release-it/release-it?style=social&label=release-it" style="height:25px;">
+</a>
+
+- [chore: update dependencies to resolve security vulnerabilities #1273](https://github.com/release-it/release-it/pull/1273)  
