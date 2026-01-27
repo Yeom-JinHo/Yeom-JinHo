@@ -27,7 +27,7 @@
 
 ### 📚 Projects
 
-- [v-f-labs](https://v-f-labs-website-web.vercel.app?utm_source=github&utm_content=readme)  v-f-labs(wip)
+- [v-f-labs](https://vague-frequency-labs.vercel.app?utm_source=github&utm_content=readme)  v-f-labs(wip)
 - [@ui-layouts/mcp](https://www.npmjs.com/package/@ui-layouts/mcp) `@ui-layouts/mcp` provides AI assistants with several valuable tools to help them search, understand, and retrieve UI components from ui-layouts.com
 ---
 
