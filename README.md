@@ -123,6 +123,7 @@ I enjoy turning real-world UI/UX issues (especially around responsiveness, Safar
   → Fixed example import paths to prevent confusion for new users.
 - [feat(utils): add sort option to formattedVariables #1611](https://github.com/style-dictionary/style-dictionary/pull/1611)  
   → Added options.sort to formattedVariables for deterministic ordering
+- [fix(examples): resolve directory path in matching-build-files tokens for ESM #1630](https://github.com/style-dictionary/style-dictionary/pull/1630)  
 
 
 <a href="https://github.com/release-it/release-it">
