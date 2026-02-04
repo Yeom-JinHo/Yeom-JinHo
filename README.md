@@ -39,7 +39,7 @@ I enjoy turning real-world UI/UX issues (especially around responsiveness, Safar
 
 ![Jinho's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Yeom-JinHo&combine_all_yearly_contributions=true&hide=B)
 
-#### UI Libraries & Design Systems
+#### 🎨 UI Libraries & Design Systems
 
 <a href="https://github.com/saadeghi/daisyui">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/saadeghi/daisyui?style=social&label=daisyui" style="height:25px;">
@@ -60,11 +60,6 @@ I enjoy turning real-world UI/UX issues (especially around responsiveness, Safar
 - [fix: AnimatedGridPattern hydration + effect loop + invalid DOM prop #858](https://github.com/magicuidesign/magicui/pull/858)  
   → Fixed hydration mismatch + React warning, and prevented an effect-induced render loop.
 
-<a href="https://github.com/magicuidesign/mcp">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/magicuidesign/mcp?style=social&label=magicui/mcp" style="height:25px;">
-</a>
-
-- [docs: use CLI-safe MCP alias in README example  #6](https://github.com/magicuidesign/mcp/pull/6))  
 
 <a href="https://github.com/ui-layouts/uilayouts">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ui-layouts/uilayouts?style=social&label=ui-layouts" style="height:25px;">
@@ -96,8 +91,23 @@ I enjoy turning real-world UI/UX issues (especially around responsiveness, Safar
   → Polished card layout alignment for a cleaner pricing section.
 
 ---
+#### 🤖 AI, AI Infra & AI-assisted Systems
 
-#### DX, Tooling & Type Utilities
+<a href="https://github.com/magicuidesign/mcp">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/magicuidesign/mcp?style=social&label=magicui/mcp" style="height:25px;">
+</a>
+
+- [docs: use CLI-safe MCP alias in README example  #6](https://github.com/magicuidesign/mcp/pull/6))  
+
+<a href="https://github.com/openclaw/openclaw">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/openclaw/openclaw?style=social&label=openclaw/openclaw" style="height:25px;">
+</a>
+
+- [fix(control-ui): resolve header logo when gateway.controlUi.basePath is set #7178](https://github.com/openclaw/openclaw/pull/7178)  
+  → Fixed a production-only UI bug in OpenClaw’s Control UI where static assets broke under a configured basePath, ensuring consistent asset resolution across AI dashboard deployments.
+
+---
+#### 🔧 DX, Tooling & Type Utilities
 
 <a href="https://github.com/vercel/turborepo">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/vercel/turborepo?style=social&label=turborepo" style="height:25px;">
