@@ -28,6 +28,10 @@
 ### 📚 Projects
 
 - [v-f-labs](https://vague-frequency-labs.vercel.app?utm_source=github&utm_content=readme)  v-f-labs(wip)
+- [magicui](https://github.com/magicuidesign/magicui) **(Maintainer)**
+Maintaining and improving Magic UI through component fixes, rendering stability improvements, and community support.
+- [@magicuidesign/mcp](https://www.npmjs.com/package/@magicuidesign/mcp) **(Maintainer)**
+MCP server for discovering and retrieving Magic UI registry items, with contributions in architecture, generic registry tools, and release automation.
 - [@ui-layouts/mcp](https://www.npmjs.com/package/@ui-layouts/mcp) **(Creator & Maintainer)**
 `@ui-layouts/mcp` provides AI assistants with several valuable tools to help them search, understand, and retrieve UI components from ui-layouts.com
 ---
