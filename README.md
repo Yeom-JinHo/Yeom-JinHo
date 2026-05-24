@@ -29,7 +29,7 @@
 
 - [vague-frequency-labs](https://vague-frequency-labs.vercel.app?utm_source=github&utm_content=readme) vague-frequency-labs
 - [celebrate-agency](https://celebrate-agency.vercel.app?utm_source=github&utm_content=readme) celebrate-agency
-- [payday-records](https://payday-records?utm_source=github&utm_content=readme) payday-records
+- [payday-records](https://payday-records.vercel.app?utm_source=github&utm_content=readme) payday-records
 - [magicui](https://github.com/magicuidesign/magicui) **(Maintainer)**
 Maintaining and improving Magic UI through component fixes, rendering stability improvements, and community support.
 - [@magicuidesign/mcp](https://www.npmjs.com/package/@magicuidesign/mcp) **(Maintainer)**
